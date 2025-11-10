@@ -1,6 +1,16 @@
 # COLUMBS-LAW APPLICATIONS IN REAL WORLD
 ## Real-World Use Case:
+## 1.Introduction:
+The Vande Bharat Express, India’s flagship high-speed train, represents a major step toward advanced smart rail technology. Designed and built under the “Make in India” initiative, this train not only achieves impressive speeds of up to 180 km/h, but also integrates cutting-edge communication and networking systems to enhance passenger experience, safety, and operational efficiency.
 
+A key feature of the Vande Bharat Express is its onboard communication network, which enables real-time internet access, train control, surveillance, and infotainment. The system seamlessly connects passengers, crew, and control centers using 4G/5G cellular, satellite, and Wi-Fi technologies.
+
+At the heart of this system are transmission lines and RF (Radio Frequency) components—such as coaxial cables, microstrip lines, and antennas—that ensure reliable, high-speed signal transmission even when the train is moving through tunnels, rural areas, or switching between base stations.
+
+By applying principles of transmission line theory—including impedance matching, reflection coefficient, and VSWR—engineers minimize signal loss and electromagnetic interference (EMI). This guarantees that passengers can enjoy uninterrupted internet, while train operators maintain constant communication and safety monitoring throughout the journey.
+
+Thus, the communication system of the Vande Bharat Express showcases how modern RF engineering and transmission line applications play a vital role in delivering smooth, high-speed connectivity to one of the world’s fastest-growing railway networks.
+## 
 In the Vande Bharat Express communication system, the coaxial transmission lines that connect the rooftop antenna to the router depend on precise electric field control between the inner conductor and the outer shield.
 
 The electric field (E) inside the coaxial cable arises from opposite charges on these conductors.
