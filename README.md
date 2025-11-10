@@ -10,6 +10,9 @@ At the heart of this system are transmission lines and RF (Radio Frequency) comp
 By applying principles of transmission line theory—including impedance matching, reflection coefficient, and VSWR—engineers minimize signal loss and electromagnetic interference (EMI). This guarantees that passengers can enjoy uninterrupted internet, while train operators maintain constant communication and safety monitoring throughout the journey.
 
 Thus, the communication system of the Vande Bharat Express showcases how modern RF engineering and transmission line applications play a vital role in delivering smooth, high-speed connectivity to one of the world’s fastest-growing railway networks.
+
+<img width="1200" height="737" alt="image" src="https://github.com/user-attachments/assets/b55aa117-c86c-47b8-b0da-eae916d5ab73" />
+
 ## 
 In the Vande Bharat Express communication system, the coaxial transmission lines that connect the rooftop antenna to the router depend on precise electric field control between the inner conductor and the outer shield.
 
