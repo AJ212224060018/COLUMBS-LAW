@@ -13,7 +13,10 @@ Thus, the communication system of the Vande Bharat Express showcases how modern 
 
 <img width="1200" height="737" alt="image" src="https://github.com/user-attachments/assets/b55aa117-c86c-47b8-b0da-eae916d5ab73" />
 
-## 
+## 2. System Overview: 
+## In Coaxial Transmission Lines
+Inside a coaxial cable, the inner conductor carries a positive charge and the outer shield carries an equal negative charge.According to Coulomb’s Law, these opposite charges create an electric field (E) between the conductors.The capacitance per unit length (C)The signal propagation velocityThe characteristic impedance (Z₀) of the cableBy controlling the distance (r) and the dielectric constant (ε) between conductors, engineers ensure perfect impedance matching (50 Ω) — reducing reflection and ensuring high-quality internet signals inside the train.
+##
 In the Vande Bharat Express communication system, the coaxial transmission lines that connect the rooftop antenna to the router depend on precise electric field control between the inner conductor and the outer shield.
 
 The electric field (E) inside the coaxial cable arises from opposite charges on these conductors.
