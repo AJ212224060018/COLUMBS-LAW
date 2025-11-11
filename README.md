@@ -17,6 +17,10 @@ Thus, the communication system of the Vande Bharat Express showcases how modern 
 ## 2. System Overview: 
 Coulomb’s Law describes the electrostatic force between two stationary electric charges.This law forms the foundation for all electric field behavior in conductors, capacitors, and transmission lines — including those used for onboard internet and communication systems in the Vande Bharat Express.
 As the train moves at high speed, stable internet connectivity depends on coaxial cables and antenna systems, where charges interact continuously according to Coulomb’s Law to maintain smooth data transmission.
+
+<img width="1024" height="1024" alt="Gemini_Generated_Image_6bqu2s6bqu2s6bqu" src="https://github.com/user-attachments/assets/b51a1c8b-0695-4bc4-9bb7-e08c61f900a6" />
+
+
 ## 3. Coulomb’s Law Formula:
 <img width="290" height="70" alt="image" src="https://github.com/user-attachments/assets/ae4e0d9e-7310-4423-a836-db45284b3296" />
 
@@ -27,6 +31,7 @@ As the train moves at high speed, stable internet connectivity depends on coaxia
 ### . r → Distance between charges (m)
 ### . 𝜀0 → Permittivity of free space = 8.854×10−12𝐹/𝑚
 ## 3. Application in the Vande Bharat Express System:
+
 ## (a) Inside Coaxial Transmission Lines:
 The antenna, RF modem, and router in the train are connected through coaxial cables.These cables carry RF signals as moving electric fields between the inner conductor (positive charge) and outer conductor(negative charge).
 Using Coulomb’s Law, the electric field (E) between the conductors can be expressed as:
@@ -39,6 +44,30 @@ Using Coulomb’s Law, the electric field (E) between the conductors can be expr
 ### . ε = Permittivity of the dielectric
 ### . L = Length of the cable
 
+<img width="1024" height="1024" alt="Gemini_Generated_Image_dlv10xdlv10xdlv1" src="https://github.com/user-attachments/assets/dad46b80-2929-4b02-8689-4c41e82857b4" />
+
+In Vande Bharat ExpressThis electric field determines how efficiently the internet signal travels from the antenna to the modem, with minimal loss or reflection — ensuring stable Wi-Fi even at 160–180 km/h.
+
+## (b) Voltage Difference Between Conductors:
+The potential difference (V) between the inner and outer conductors is given by:
+
+<img width="272" height="90" alt="image" src="https://github.com/user-attachments/assets/7cd29e0a-146c-4d2f-9b2c-89061db70d1a" />
+
+Where a and b are the radii of the inner and outer conductors.
+This voltage results from the Coulombic attraction and repulsion between charges on the conductors.In the train, this helps maintain a constant signal voltage, which is vital for preventing data distortion.
+
+<img width="1024" height="1024" alt="Gemini_Generated_Image_7rhtbc7rhtbc7rht" src="https://github.com/user-attachments/assets/833b62de-e179-4cd9-9c8f-be09eebd0515" />
+
+## (c) Capacitance and Signal Transmission:
+From the above relation, the capacitance per unit length (C) of the coaxial line is:
+
+ <img width="192" height="100" alt="image" src="https://github.com/user-attachments/assets/d6886804-00f8-46bd-bb2c-426320af6e43" />
+### In Vande Bharat Express:
+This capacitance controls how charges store and release energy per signal cycle.
+#### . Constant characteristic impedance (50 Ω)
+#### . Low reflection coefficient (Γ)
+#### . ε = Permittivity of the dielectric
+#### . Low VSWR, meaning smooth high-speed data flow to passengers’ Wi-Fi
 In the Vande Bharat Express communication system, the coaxial transmission lines that connect the rooftop antenna to the router depend on precise electric field control between the inner conductor and the outer shield.
 
 The electric field (E) inside the coaxial cable arises from opposite charges on these conductors.
