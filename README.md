@@ -19,6 +19,8 @@ Coulomb’s Law describes the electrostatic force between two stationary electri
 As the train moves at high speed, stable internet connectivity depends on coaxial cables and antenna systems, where charges interact continuously according to Coulomb’s Law to maintain smooth data transmission.
 ## 2. Coulomb’s Law Formula:
 <img width="290" height="70" alt="image" src="https://github.com/user-attachments/assets/ae4e0d9e-7310-4423-a836-db45284b3296" />
+
+
 ## Where:
 ## F → Electrostatic force between two charges (N)
 ## 𝑞1,𝑞2 → Charges on conductors (C)
