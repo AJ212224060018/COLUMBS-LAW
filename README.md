@@ -62,6 +62,8 @@ This voltage results from the Coulombic attraction and repulsion between charges
 From the above relation, the capacitance per unit length (C) of the coaxial line is:
 
  <img width="192" height="100" alt="image" src="https://github.com/user-attachments/assets/d6886804-00f8-46bd-bb2c-426320af6e43" />
+
+ 
 ### In Vande Bharat Express:
 This capacitance controls how charges store and release energy per signal cycle.
 #### . Constant characteristic impedance (50 Ω)
