@@ -1,5 +1,8 @@
 # COLUMBS-LAW APPLICATIONS IN REAL WORLD
 ## Real-World Use Case:
+##
+## Application of Coulomb’s Law in the Vande Bharat Express Communication System
+##
 ## 1.Introduction:
 The Vande Bharat Express, India’s flagship high-speed train, represents a major step toward advanced smart rail technology. Designed and built under the “Make in India” initiative, this train not only achieves impressive speeds of up to 180 km/h, but also integrates cutting-edge communication and networking systems to enhance passenger experience, safety, and operational efficiency.
 
