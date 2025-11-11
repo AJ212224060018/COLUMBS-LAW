@@ -17,15 +17,27 @@ Thus, the communication system of the Vande Bharat Express showcases how modern 
 ## 2. System Overview: 
 Coulomb’s Law describes the electrostatic force between two stationary electric charges.This law forms the foundation for all electric field behavior in conductors, capacitors, and transmission lines — including those used for onboard internet and communication systems in the Vande Bharat Express.
 As the train moves at high speed, stable internet connectivity depends on coaxial cables and antenna systems, where charges interact continuously according to Coulomb’s Law to maintain smooth data transmission.
-## 2. Coulomb’s Law Formula:
+## 3. Coulomb’s Law Formula:
 <img width="290" height="70" alt="image" src="https://github.com/user-attachments/assets/ae4e0d9e-7310-4423-a836-db45284b3296" />
 
 
 ### Where:
-### F → Electrostatic force between two charges (N)
-### 𝑞1,𝑞2 → Charges on conductors (C)
-### r → Distance between charges (m)
-### 𝜀0 → Permittivity of free space = 8.854×10−12𝐹/𝑚
+### . F → Electrostatic force between two charges (N)
+### . 𝑞1,𝑞2 → Charges on conductors (C)
+### . r → Distance between charges (m)
+### . 𝜀0 → Permittivity of free space = 8.854×10−12𝐹/𝑚
+## 3. Application in the Vande Bharat Express System:
+## (a) Inside Coaxial Transmission Lines:
+The antenna, RF modem, and router in the train are connected through coaxial cables.These cables carry RF signals as moving electric fields between the inner conductor (positive charge) and outer conductor(negative charge).
+Using Coulomb’s Law, the electric field (E) between the conductors can be expressed as:
+
+<img width="202" height="100" alt="image" src="https://github.com/user-attachments/assets/79ed5ed3-c4ad-46c4-bccf-271e62334035" />
+
+### Where:
+### . 𝐸(𝑟)= Electric field intensity at distance 
+### . Q = Charge per unit length on the inner conductor
+### . ε = Permittivity of the dielectric
+### . L = Length of the cable
 
 In the Vande Bharat Express communication system, the coaxial transmission lines that connect the rooftop antenna to the router depend on precise electric field control between the inner conductor and the outer shield.
 
