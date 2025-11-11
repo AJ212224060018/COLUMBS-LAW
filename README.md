@@ -21,11 +21,11 @@ As the train moves at high speed, stable internet connectivity depends on coaxia
 <img width="290" height="70" alt="image" src="https://github.com/user-attachments/assets/ae4e0d9e-7310-4423-a836-db45284b3296" />
 
 
-## Where:
-## F → Electrostatic force between two charges (N)
-## 𝑞1,𝑞2 → Charges on conductors (C)
-## r → Distance between charges (m)
-## 𝜀0 → Permittivity of free space = 8.854×10−12𝐹/𝑚
+### Where:
+### F → Electrostatic force between two charges (N)
+### 𝑞1,𝑞2 → Charges on conductors (C)
+### r → Distance between charges (m)
+### 𝜀0 → Permittivity of free space = 8.854×10−12𝐹/𝑚
 
 In the Vande Bharat Express communication system, the coaxial transmission lines that connect the rooftop antenna to the router depend on precise electric field control between the inner conductor and the outer shield.
 
